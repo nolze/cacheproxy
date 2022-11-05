@@ -1,6 +1,7 @@
 # CacheProxy
 
 [![test](https://github.com/nolze/cacheproxy/actions/workflows/test.yaml/badge.svg)](https://github.com/nolze/cacheproxy/actions/workflows/test.yaml)
+[![PyPI](https://img.shields.io/pypi/v/cacheproxy)](https://pypi.org/project/cacheproxy/)
 
 A simple Python cache/caching proxy for Web development and something else, built on [aiohttp](https://github.com/aio-libs/aiohttp) and [aiohttp-client-cache](https://github.com/requests-cache/aiohttp-client-cache) (a family project of [requests-cache](https://github.com/requests-cache/requests-cache)).
 
