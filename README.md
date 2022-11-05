@@ -74,11 +74,13 @@ See also:
 
 ## Todos
 
-- [ ] Better error handling
-- [ ] Write tests
-- [ ] Better logging
+- [x] Write basic tests
 - [ ] Support POST/PUT
+- [ ] Write docs
+- [ ] Better error handling
+- [ ] Better logging
 - [ ] Support switching http/https (with --http/--https flags)
+- [ ] Write more tests
 - [ ] Support DynamoDB, MongoDB, and Redis backends
 
 ## License
